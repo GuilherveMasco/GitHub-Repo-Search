@@ -13,11 +13,8 @@ The code for the tool is on the src folder, by the file main.py.
 To run your repositories search by topic, first you'll have to fill your authentication information (Username and Access Token) in the headers{ } array.
 
     headers = {
-
         'User': '###USERNAME###',
-
         'Authorization': '###TOKEN###'
-
     }
 
 

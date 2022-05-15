@@ -27,4 +27,4 @@ Where the ###TOPIC### argument is the desired topic.
 
 The outuput will be generated on the output.json file in the src folder.
 
-By nature, GitHub API will show only the information for the first 30 repositories found by the search.
+By nature, GitHub API will only show the information for the first 30 repositories found by the search.
